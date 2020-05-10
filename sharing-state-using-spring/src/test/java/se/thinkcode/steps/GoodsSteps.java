@@ -1,6 +1,6 @@
 package se.thinkcode.steps;
 
-import cucumber.api.java.en.Given;
+import io.cucumber.java.en.Given;
 import org.springframework.beans.factory.annotation.Autowired;
 import se.thinkcode.Customer;
 import se.thinkcode.Item;
